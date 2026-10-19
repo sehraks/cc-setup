@@ -4,9 +4,7 @@
   <a href="https://linktr.ee/sehraks" target="_blank" rel="noopener noreferrer"><img alt="Linktree" src="https://img.shields.io/badge/URLs-Linktree?logo=linktree&label=Linktree&labelColor=008000&color=006400"></a>
   <a href="https://www.facebook.com/sehrakz" target="_blank" rel="noopener noreferrer"><img alt="Facebook Main Account" src="https://img.shields.io/badge/Main%20Account-Facebook?style=flat&logo=facebook&logoColor=ffffff&label=Cerax&labelColor=0077B6&color=023E8A"></a>
   <a href="https://github.com/sehraks" target="_blank" rel="noopener noreferrer"><img alt="GitHub Profile" src="https://img.shields.io/badge/Profile-GitHub?style=flat&logo=github&label=GitHub&labelColor=000435&color=00021D"></a>
-  <a href="https://discord.gg/RXqeCuKPFt">
-    <img src="https://img.shields.io/badge/Join%20our%20Discord-Server-5865F2?logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
+  <a href="https://discord.gg/RXqeCuKPFt" target="_blank" rel="noopener noreferrer"><img alt="Discord Server" src="https://img.shields.io/badge/Join%20our%20Discord-Server?logo=discord&logoColor=white&labelColor=000435&color=5865F2"></a>
 </p>
 
 ![CC Dashboard](screenshots/dashboard.png)
