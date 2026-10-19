@@ -22,7 +22,7 @@ CC is a multi-purpose Discord bot built to make community management and everyda
 - **Moderation tools** — member moderation, timeouts, warnings, offense history, and message cleanup for authorized staff.
 - **Server management** — server and member information, role selection, staff-role tools, channel controls, and temporary voice/text room workflows where configured.
 - **Community features** — reminders, anonymous confessions, fun/social commands, and personal role menus.
-- **CC Companion** — conversational help in supported channels, including AI-backed replies and supported actions.
+- ** AI Agent & CC AI Companion** — conversational help in supported channels, including AI-backed replies and supported actions.
 - **Music and media utilities** — supported music search/download and social-media workflows. Availability may depend on the server's channels, Booster status, and service health.
 - **Guild Panel** — a web interface for supported server settings and bot status, with Discord sign-in for eligible server members.
 - **Connected services** — optional AI, weather, and other integrations that depend on service availability and configuration.
