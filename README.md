@@ -1,5 +1,17 @@
 # CC — Community Companion
 
+<p align="left">
+  <a href="https://anilist.co/user/cerax/favorites" target="_blank" rel="noopener noreferrer"><img alt="AniList Favorites" src="https://img.shields.io/badge/My%20Favorites-AniList?logo=anilist&label=AniList&labelColor=282E78&color=080E4B"></a>
+  <a href="https://linktr.ee/sehraks" target="_blank" rel="noopener noreferrer"><img alt="Linktree" src="https://img.shields.io/badge/URLs-Linktree?logo=linktree&label=Linktree&labelColor=008000&color=006400"></a>
+  <a href="https://www.facebook.com/sehrakz" target="_blank" rel="noopener noreferrer"><img alt="Facebook Main Account" src="https://img.shields.io/badge/Main%20Account-Facebook?style=flat&logo=facebook&logoColor=ffffff&label=Cerax&labelColor=0077B6&color=023E8A"></a>
+  <a href="https://github.com/sehraks" target="_blank" rel="noopener noreferrer"><img alt="GitHub Profile" src="https://img.shields.io/badge/Profile-GitHub?style=flat&logo=github&label=GitHub&labelColor=000435&color=00021D"></a>
+  <a href="https://discord.gg/RXqeCuKPFt" target="_blank" rel="noopener noreferrer"><img alt="Join our Discord server" src="https://img.shields.io/badge/Join%20our%20Discord%20server-5865F2?style=flat&logo=discord&logoColor=white"></a>
+</p>
+
+![CC Dashboard](dashboard.png)
+
+![CC Help & Support](help%20%26%20support.png)
+
 CC is a multi-purpose Discord bot built to make community management and everyday server activities easier.
 
 **Visit CC:** https://sehraks-dc-bot-production.up.railway.app/
