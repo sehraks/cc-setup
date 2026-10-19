@@ -5,8 +5,6 @@
   <a href="commands.md" target="_blank" rel="noopener noreferrer"><img alt="Commands Guide" src="https://img.shields.io/badge/Commands-Guide?style=flat&logo=readthedocs&logoColor=ffffff&labelColor=36536B&color=263238"></a>
   <a href="https://github.com/sehraks" target="_blank" rel="noopener noreferrer"><img alt="GitHub Profile" src="https://img.shields.io/badge/Profile-GitHub?style=flat&logo=github&label=GitHub&labelColor=000435&color=00021D"></a>
   <a href="https://discord.gg/RXqeCuKPFt" target="_blank" rel="noopener noreferrer"><img alt="Discord Server" src="https://img.shields.io/badge/Server-Discord?style=flat&logo=discord&logoColor=ffffff&label=Join%20our%20Discord&labelColor=5865F2&color=4752C4"></a>
-  <a href="privacy-policy.md" target="_blank" rel="noopener noreferrer"><img alt="Privacy Policy" src="https://img.shields.io/badge/Privacy-Policy?style=flat&logo=shield&logoColor=ffffff&labelColor=2E7D32&color=1B5E20"></a>
-  <a href="terms-of-service.md" target="_blank" rel="noopener noreferrer"><img alt="Terms of Service" src="https://img.shields.io/badge/Terms-of-Service?style=flat&logo=readme&logoColor=ffffff&labelColor=6A1B9A&color=4A148C"></a>
 </p>
 
 ![CC Dashboard](screenshots/dashboard.png)
