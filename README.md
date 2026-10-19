@@ -1,4 +1,4 @@
-# CC — Community Companion
+# CC - Powering Your Discord Community
 
 <p align="left">
   <a href="https://linktr.ee/sehraks" target="_blank" rel="noopener noreferrer"><img alt="Linktree" src="https://img.shields.io/badge/URLs-Linktree?logo=linktree&label=Linktree&labelColor=008000&color=006400"></a>
