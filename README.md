@@ -43,6 +43,8 @@ If a feature is unavailable, check the command's permission requirements, any ch
 
 - **CC home:** https://sehraks-dc-bot-production.up.railway.app/
 - **Command guide:** [commands.md](commands.md)
+- **Privacy Policy:** [privacy-policy.md](privacy-policy.md)
+- **Terms of Service:** [terms-of-service.md](terms-of-service.md)
 - **Implementation repository:** [sehraks/cc-main](https://github.com/sehraks/cc-main)
 
 ## Privacy and security
