@@ -8,10 +8,6 @@
   <a href="https://discord.gg/RXqeCuKPFt" target="_blank" rel="noopener noreferrer"><img alt="Join our Discord server" src="https://img.shields.io/badge/Join%20our%20Discord%20server-5865F2?style=flat&logo=discord&logoColor=white"></a>
 </p>
 
-![CC Dashboard](dashboard.png)
-
-![CC Help & Support](help%20%26%20support.png)
-
 CC is a multi-purpose Discord bot built to make community management and everyday server activities easier.
 
 **Visit CC:** https://sehraks-dc-bot-production.up.railway.app/
