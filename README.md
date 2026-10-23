@@ -13,7 +13,7 @@
 
 CC is a multi-purpose Discord bot built to make community management and everyday server activities easier.
 
-**Visit CC:** https://sehraks-dc-bot-production.up.railway.app/
+**Visit CC:** https://cc-discord.onrender.com
 
 > This is the current service address. The bot may move hosting providers in the future, so this link can be updated if the deployment changes.
 
