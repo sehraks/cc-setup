@@ -61,10 +61,9 @@ Still stuck? Ask in the [Discord server](https://discord.gg/RXqeCuKPFt).
 
 ## Privacy and security
 
-- **Never share** bot tokens, API keys, OAuth client secrets, session cookies, database credentials, or private environment variables.
-- **Sign in to the Guild Panel** only through the official CC service and Discord's authorization screen.
-- **Be careful with staff permissions.** Don't give them to people who shouldn't be able to moderate your server.
-- **Behavior varies.** User content and feature behavior depend on the bot's current implementation and the connected services it uses.
+CC's data practices are described in the [Privacy Policy](privacy-policy.md). Use the official [CC website](https://cc-discord.onrender.com) and Discord's authorization screen when signing in to the Guild Panel.
+
+Server access and feature behavior depend on Discord permissions, channel settings, the bot's current implementation, and the availability of connected services.
 
 ## About this repository
 
