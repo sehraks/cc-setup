@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-sehraks-00021D?style=flat&logo=github&logoColor=white&labelColor=000435)](https://github.com/sehraks)
 [![Discord](https://img.shields.io/badge/Discord-Join%20the%20server-4752C4?style=flat&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/RXqeCuKPFt)
 
-[**Visit CC**](https://cc-discord.onrender.com) · [Command Guide](commands.md) · [Privacy Policy](privacy-policy.md) · [Terms of Service](terms-of-service.md)
+[**Visit CC**](https://cc-discord.onrender.com) · [Command Guide](commands.md) · [Bot Permissions](BOT_PERMISSIONS.md) · [Privacy Policy](privacy-policy.md) · [Terms of Service](terms-of-service.md)
 
 </div>
 
@@ -56,6 +56,7 @@ Still stuck? Ask in the [Discord server](https://discord.gg/RXqeCuKPFt).
 | Document | Description |
 | --- | --- |
 | [Command guide](commands.md) | Overview of available commands |
+| [Bot permissions](BOT_PERMISSIONS.md) | Discord permissions CC requests and why it needs them |
 | [Privacy Policy](privacy-policy.md) | How data is handled |
 | [Terms of Service](terms-of-service.md) | Rules for using CC |
 
