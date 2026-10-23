@@ -31,8 +31,8 @@ These permissions support CC's server setup, moderation, role management, and co
 - If a feature cannot work, check the bot's server role position and the permissions granted in the relevant channel.
 - The requested permission set does not include the **Administrator** permission.
 
-## Privacy and security
+## Scope
 
-This document describes permission purposes only. Do not put bot tokens, client secrets, OAuth credentials, private keys, environment variables, personal data, or other confidential configuration values in this file or in public documentation.
+This page documents the purpose of the permissions CC requests when installed in a Discord server. It is intended as a reference for server owners reviewing CC's access.
 
 For more information about Discord permissions, see the [official Discord permissions documentation](https://discord.com/developers/docs/topics/permissions).
